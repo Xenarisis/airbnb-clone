@@ -1,7 +1,7 @@
 // components/Navbar.tsx
 import Link from "next/link"
 import Image from "next/image"
-import Logo from "./public/Airbnb_Logo_Bélo.svg"
+import Logo from "../public/Airbnb_Logo_Bélo.svg"
 
 export default function Navbar() {
   return (
